@@ -6,3 +6,4 @@ This Repository contains ***Solutions for Rosalind Bioinformatics Problems*** <b
 |NEED|Pairwise Global Alignment|[Code](https://github.com/hahajjjun/Rosalind_Solutions/tree/master/Solutions/NEED_Pairwise_Global_Alignment)|
 |TFSQ|FASTQ Format Introduction|[Code](https://github.com/hahajjjun/Rosalind_Solutions/tree/master/Solutions/TFSQ_FASTQ_format_introduction)|
 |PHRE|Read Quality Distribution|[Code](https://github.com/hahajjjun/Rosalind_Solutions/tree/master/Solutions/PHRE_Read_Quality_Distribution)|
+|PTRA|Protein Translation|[Code](https://github.com/hahajjjun/Rosalind_Solutions/tree/master/Solutions/PTRA_Protein_Translation)|
