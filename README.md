@@ -7,3 +7,4 @@ This Repository contains ***Solutions for Rosalind Bioinformatics Problems*** <b
 |TFSQ|FASTQ Format Introduction|[Code](https://github.com/hahajjjun/Rosalind_Solutions/tree/master/Solutions/TFSQ_FASTQ_format_introduction)|
 |PHRE|Read Quality Distribution|[Code](https://github.com/hahajjjun/Rosalind_Solutions/tree/master/Solutions/PHRE_Read_Quality_Distribution)|
 |PTRA|Protein Translation|[Code](https://github.com/hahajjjun/Rosalind_Solutions/tree/master/Solutions/PTRA_Protein_Translation)|
+|RVCO|Complementing a Strand of DNA|[Code](https://github.com/hahajjjun/Rosalind_Solutions/tree/master/Solutions/RVCO_Complementing_a_Strand_of_DNA)|
